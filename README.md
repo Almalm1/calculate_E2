@@ -20,7 +20,8 @@ DOI: [10.1039/C8CP07276K](https://dx.doi.org/10.1039/C8CP07276K)
 ***
 Please cite this paper if you use this script in your work:
 
-A. S. Gazizov, A. V. Smolobochkin, T. S. Rizbayeva, S. Z. Vatsadze, A. R. Burilov, O. G. Sinyashin, I. V. Alabugin, J. Org. Chem., 2023
+A.S. Gazizov, E.A. Kuznetsova, A.Z. Kamaletdinov, A.V. Smolobochkin, O.A. Lodochnikova, D.P. Gerasimova, A.R. Burilov, M.A. Pudovik, *Org. Chem. Front.*, **2023**
+
 ***
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
