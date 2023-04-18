@@ -13,11 +13,15 @@ with any Python 3.x version
 
 [1] Nikolaienko T. Y., Bulavin L. A. Int. J. Quantum Chem., 2019, 119, e25798.
 DOI: 10.1002/qua.25798.
+
 [2] Nikolaienko T. Y. Phys. Chem. Chem. Phys., 2019, 21, 5285–5294.
 DOI: 10.1039/C8CP07276K.
+
 [3] Nikolaienko T. Y., Bulavin L. A., Hovorun D. M. Comput. Theor. Chem.,
 2014, 1050, 15–22. DOI: 10.1016/j.comptc.2014.10.002.
+
 [4] https://janpa.sourceforge.net
+
 [5] Yu. Nikolaienko T., Kryachko E. S., Dolgonos G. A. J. Comput. Chem.,
 2018, 39, 1090–1102. DOI: 10.1002/jcc.25061.
 
