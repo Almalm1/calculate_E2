@@ -1,7 +1,7 @@
 This script calculates second order perturbation energy (E2) using Fock and
 density matrices in natural atomic orbital (NAO) basis, chemist’s localized
-property-optimized orbitals (CLPO) [^1],[^2] to Lewis hybrid orbitals (LHO) and LHO
-to NAO transformation matrices as outputted by JANPA [^3],[^4] program. See this
+property-optimized orbitals (CLPO) [^1][^2] to Lewis hybrid orbitals (LHO) and LHO
+to NAO transformation matrices as outputted by JANPA [^3][^4] program. See this
 paper [^5] by Nikolaienko for the more details on calculation procedure.
 
 To get needed files the following options should be used when running JANPA:
