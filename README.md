@@ -10,7 +10,7 @@ To get needed files the following options should be used when running JANPA:
 
 The script has been tested with Python 3.8.10 and JANPA 2.02, but should work
 with any Python 3.x version
-----------------------------------------------------
+
 [1] Nikolaienko T. Y., Bulavin L. A. Int. J. Quantum Chem., 2019, 119, e25798.
 DOI: 10.1002/qua.25798.
 [2] Nikolaienko T. Y. Phys. Chem. Chem. Phys., 2019, 21, 5285–5294.
@@ -20,13 +20,11 @@ DOI: 10.1039/C8CP07276K.
 [4] https://janpa.sourceforge.net
 [5] Yu. Nikolaienko T., Kryachko E. S., Dolgonos G. A. J. Comput. Chem.,
 2018, 39, 1090–1102. DOI: 10.1002/jcc.25061.
-----------------------------------------------------
+
 Please cite this paper if you use this script in your work:
 
 A. S. Gazizov, A. V. Smolobochkin, T. S. Rizbayeva, S. Z. Vatsadze, A. R. Burilov, O. G. Sinyashin, I. V. Alabugin, J. Org. Chem., 2023
 
------------------------------------------------------------------
------------------------------------------------------------------
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
 Foundation, either version 3 of the License, or (at your option) any later
